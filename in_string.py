@@ -6,7 +6,5 @@ def check_vowels():
     print('Contiene e: ' + str('e' in name))
     print('Contiene i: ' + str('i' in name))
     print('Contiene o: ' + str('o' in name))
-    print('Contiene u: ' + str('u' in name))
-check_vowels()
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
